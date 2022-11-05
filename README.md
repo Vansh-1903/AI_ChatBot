@@ -1,1 +1,1 @@
-# AI_ChatBot
+AI Chatbot for college enquiry.
